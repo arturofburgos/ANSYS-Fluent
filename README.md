@@ -1,4 +1,4 @@
-# ANSYS Fluent Portfolio — Arturo Machado Burgos
+# ANSYS Fluent Portfolio
 
 This repository compiles selected **ANSYS Fluent** projects on Numerical Thermo-Fluid Mechanics. All project PDFs are located in the [`Cases/`](./Cases) folder.
 
